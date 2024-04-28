@@ -10,3 +10,7 @@ Link to dataset [here](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-l
 ## [British Airways Reviews Dashboard](https://public.tableau.com/shared/D4FQW39H7?:display_count=n&:origin=viz_share_link)
 Visualization breaking down multiple metrics related to customer satisfaction with British Airways reviews downloaded from Kaggle. 
 Link to dataset [here](https://www.kaggle.com/datasets/lapodini/british-airway-reviews).
+
+## [Taylor Swift Discography Dashboard](https://public.tableau.com/views/TaylorSwiftDiscography/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+Visualization reviewing trends in Taylor Swift's music, dataset downloaded from Kaggle.
+Link to dataset [here](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset?resource=download)
